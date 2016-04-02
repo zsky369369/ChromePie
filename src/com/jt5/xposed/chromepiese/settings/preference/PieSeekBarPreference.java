@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie.settings.preference;
+package com.jt5.xposed.chromepiese.settings.preference;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.jt5.xposed.chromepie.R;
+import com.jt5.xposed.chromepiese.R;
 
 public class PieSeekBarPreference extends DialogPreference implements SeekBar.OnSeekBarChangeListener {
 

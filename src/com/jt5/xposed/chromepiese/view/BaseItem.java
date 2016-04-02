@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.jt5.xposed.chromepie.view;
+package com.jt5.xposed.chromepiese.view;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,7 +22,7 @@ import java.util.List;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.jt5.xposed.chromepie.view.PieMenu.PieView;
+import com.jt5.xposed.chromepiese.view.PieMenu.PieView;
 
 /**
  * Pie menu item

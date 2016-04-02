@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie.settings;
+package com.jt5.xposed.chromepiese.settings;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -15,7 +15,7 @@ import android.preference.PreferenceFragment;
 import android.preference.PreferenceManager;
 import android.view.Menu;
 
-import com.jt5.xposed.chromepie.R;
+import com.jt5.xposed.chromepiese.R;
 
 public class PiePreferenceFragment extends PreferenceFragment {
 
@@ -58,7 +58,7 @@ public class PiePreferenceFragment extends PreferenceFragment {
                 int state = (Boolean) newValue ? PackageManager.COMPONENT_ENABLED_STATE_DISABLED : PackageManager.COMPONENT_ENABLED_STATE_ENABLED;
                 PackageManager pm = getActivity().getPackageManager();
                 pm.setComponentEnabledSetting(new ComponentName(getActivity(),
-                        "com.jt5.xposed.chromepie.settings.PieSettings_Alias"), state, PackageManager.DONT_KILL_APP);
+                        "com.jt5.xposed.chromepiese.settings.PieSettings_Alias"), state, PackageManager.DONT_KILL_APP);
                 return true;
             }
         });

@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie.settings;
+package com.jt5.xposed.chromepiese.settings;
 
 import java.util.Map;
 
@@ -19,9 +19,9 @@ import android.preference.PreferenceScreen;
 import android.view.MenuItem;
 import android.widget.BaseAdapter;
 
-import com.jt5.xposed.chromepie.PieControl;
-import com.jt5.xposed.chromepie.R;
-import com.jt5.xposed.chromepie.settings.preference.PieMainPreference;
+import com.jt5.xposed.chromepiese.PieControl;
+import com.jt5.xposed.chromepiese.R;
+import com.jt5.xposed.chromepiese.settings.preference.PieMainPreference;
 
 public class MenuPreferenceFragment extends PreferenceFragment {
 

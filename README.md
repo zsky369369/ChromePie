@@ -1,4 +1,4 @@
-ChromePie
+ChromePie SE
 =========
 
-Add Pie Controls to Google Chrome with Xposed
+Add Pie Controls to tgpark CAF Browser with Xposed

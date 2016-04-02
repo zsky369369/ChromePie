@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ChromePie</string>
-    <string name="app_description">Add Pie Controls to Google Chrome</string>
+    <string name="app_name">ChromePie SE</string>
+    <string name="app_description">Add Pie Controls to tgpark CAF Browser</string>
     <string name="app_thread_link">Check out the <a href="http://forum.xda-developers.com/xposed/modules/mod-chromepie-add-pie-controls-to-t2869531">official 
     thread at XDA Developers</a> for support and feedback</string>
-    <string name="app_about">ChromePie is an Xposed module which adds customisable Pie Controls 
-        to Google Chrome and Google Chrome Beta.\n\n
+    <string name="app_about"><![CDATA[ChromePie is an Xposed module which adds customisable Pie Controls
+        to tgpark CAF Browser.\n\n
         Actions include:
         \n•   Back, forward, refresh, new tab, new incognito tab, close tab
         \n•   Add bookmark, history, request desktop site, find in page
-        \n•   Add to home, share, scroll to top, full screen &amp; more
-    </string>
+        \n•   Add to home, share, scroll to top, full screen & more]]></string>
     <string name="app_help">Tap \'Add new slice\' to add a main item which will be initially 
         displayed when the menu is opened. These main items can contain sub-items which 
         appear when you move your finger onto a main item. The number of sub-items 

@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie.broadcastreceiver;
+package com.jt5.xposed.chromepiese.broadcastreceiver;
 
 import android.annotation.SuppressLint;
 import android.content.BroadcastReceiver;
@@ -11,8 +11,8 @@ import java.lang.reflect.Method;
 
 public class PieReceiver extends BroadcastReceiver {
 
-    public static final String FULLSCREEN_UPDATED_INTENT = "com.jt5.xposed.chromepie.intent.FULLSCREEN_UPDATED";
-    public static final String EXPAND_NOTIFICATIONS_INTENT = "com.jt5.xposed.chromepie.intent.EXPAND_NOTIFICATIONS";
+    public static final String FULLSCREEN_UPDATED_INTENT = "com.jt5.xposed.chromepiese.intent.FULLSCREEN_UPDATED";
+    public static final String EXPAND_NOTIFICATIONS_INTENT = "com.jt5.xposed.chromepiese.intent.EXPAND_NOTIFICATIONS";
 
     @SuppressLint("WorldReadableFiles")
     @SuppressWarnings("deprecation")

@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie.settings;
+package com.jt5.xposed.chromepiese.settings;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -22,21 +22,14 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.jt5.xposed.chromepie.R;
+import com.jt5.xposed.chromepiese.R;
 
 public class PieSettings extends PreferenceActivity {
 
     private Fragment mCurrentFragment;
 
     public static final List<String> CHROME_PACKAGE_NAMES = Arrays.asList(
-        "com.android.chrome",
-        "com.chrome.beta",
-        "com.chrome.dev",
-        "com.metalasfook.nochromo",
-        "org.chromium.chrome",
-        "tugapower.codeaurora.browser",
-        "org.notphenom.swe.browser",
-        "com.rsbrowser.browser"
+        "org.codeaurora.tgpark"
     );
 
     @Override

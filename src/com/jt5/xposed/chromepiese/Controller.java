@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie;
+package com.jt5.xposed.chromepiese;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -17,7 +17,7 @@ import android.view.WindowManager;
 import android.widget.EditText;
 import android.widget.PopupMenu;
 
-import com.jt5.xposed.chromepie.broadcastreceiver.PieReceiver;
+import com.jt5.xposed.chromepiese.broadcastreceiver.PieReceiver;
 
 import de.robv.android.xposed.XC_MethodHook;
 import de.robv.android.xposed.XC_MethodHook.Unhook;
@@ -27,7 +27,7 @@ import de.robv.android.xposed.XposedHelpers.ClassNotFoundError;
 
 public class Controller {
 
-    private static final String TAG = "ChromePie:Controller: ";
+    private static final String TAG = "ChromePie SE:Controller: ";
     private final ClassLoader mClassLoader;
     private final Activity mActivity;
     private Unhook mFullscreenWindowFocusHook;

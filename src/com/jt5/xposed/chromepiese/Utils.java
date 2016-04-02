@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie;
+package com.jt5.xposed.chromepiese;
 
 import java.lang.reflect.Method;
 import java.util.HashSet;

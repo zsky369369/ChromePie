@@ -1,10 +1,10 @@
-package com.jt5.xposed.chromepie.settings.preference;
+package com.jt5.xposed.chromepiese.settings.preference;
 
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.preference.ListPreference;
 
-import com.jt5.xposed.chromepie.R;
+import com.jt5.xposed.chromepiese.R;
 
 public class PieListPreference extends ListPreference {
 

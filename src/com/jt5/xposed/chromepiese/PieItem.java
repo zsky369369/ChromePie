@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie;
+package com.jt5.xposed.chromepiese;
 
 import android.content.ComponentName;
 import android.content.Intent;
@@ -18,14 +18,14 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.jt5.xposed.chromepie.broadcastreceiver.PieReceiver;
-import com.jt5.xposed.chromepie.view.BaseItem;
+import com.jt5.xposed.chromepiese.broadcastreceiver.PieReceiver;
+import com.jt5.xposed.chromepiese.view.BaseItem;
 
 import de.robv.android.xposed.XposedBridge;
 
 public class PieItem extends BaseItem {
 
-    static final String TAG = "ChromePie:PieItem: ";
+    static final String TAG = "ChromePie SE:PieItem: ";
 
     PieItem(View view, String id) {
         super(view, id, 0);

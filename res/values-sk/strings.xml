@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ChromePie</string>
-    <string name="app_description">Pridá koláčové ovládanie Google Chrome</string>
+    <string name="app_name">ChromePie SE</string>
+    <string name="app_description">Pridá koláčové ovládanie tgpark CAF Browser</string>
     <string name="app_thread_link">Prejdite na <a href="http://forum.xda-developers.com/xposed/modules/mod-chromepie-add-pie-controls-to-t2869531">oficálnu 
     tému na XDA Developers</a> pre podporu a spätnú väzbu</string>
-    <string name="app_about">ChromePie je Xposed module, ktorý pridá upraviteľné koláčové ovládanie 
-        do Google Chrome a Google Chrome Beta.\n\n
+    <string name="app_about"><![CDATA[ChromePie je Xposed module, ktorý pridá upraviteľné koláčové ovládanie
+        do tgpark CAF Browser.\n\n
         Akcia zahŕňajú:
         \n•   Dozadu, dopredu, obnoviť, nová karta, nová karta inkognito, zavrieť kartu
         \n•   Pridať záložku, história, vyžiadať desktopovú stránku, nájsť na stránke
-        \n•   Pridať domov, zdieľať, prejsť nahor, celá obrazovka &amp; ďalšie
-    </string>
+        \n•   Pridať domov, zdieľať, prejsť nahor, celá obrazovka & ďalšie]]></string>
     <string name="app_help">Kliknite na \'Pridať nový plátok\' pre pridanie hlavnej položky,
 	    ktorá sa zobrazí pri otvorení ponuky. Tieto hlavné položky môžu obsahovať podpoložky, 
         ktoré sa objavia, keď pohnete prstom na hlavnú položku. Počet zobrazených podpoložiek 

@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ChromePie</string>
-    <string name="app_description">在Chrome裡新增圓餅控制</string>
+    <string name="app_name">ChromePie SE</string>
+    <string name="app_description">tgpark CAF Browser裡新增圓餅控制</string>
     <string name="app_thread_link">" 前往"<a href="http://forum.xda-developers.com/xposed/modules/mod-chromepie-add-pie-controls-to-t2869531">XDA Developers</a> 尋求幫助或回報問題</string>
-    <string name="app_about">"ChromePie是一個Xposed模組，可以自定新增圓餅控制到Google Chrome及Google Chrome Beta。\n\n
+    <string name="app_about"><![CDATA["ChromePie是一個Xposed模組，可以自定新增圓餅控制到tgpark CAF Browser。\n\n
         包含：
         \n•   上一頁、下一頁、重新整理、新分頁、新無痕分頁、關閉分頁
         \n•   新增書籤、歷史記錄、要求電腦版顯示、在頁面中搜尋
-        \n•   加到主畫面、分享、滑至底部、全螢幕 &amp; 更多功能
-    </string>
+        \n•   加到主畫面、分享、滑至底部、全螢幕 & 更多功能]]></string>
     <string name="app_help">按下 \'新增項目\' 加入一個主項目(打開圓餅時顯示)。
       這些主項目可以包含子項目，當您的手指滑到該項目，子項目就會出現。
       子項目的數量與主項目相同。

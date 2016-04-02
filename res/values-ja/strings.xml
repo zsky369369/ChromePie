@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ChromePie</string>
-    <string name="app_description">Google Chromeにパイ操作機能を追加します</string>
+    <string name="app_name">ChromePie SE</string>
+    <string name="app_description">tgpark CAF Browserにパイ操作機能を追加します</string>
     <string name="app_thread_link">サポートなどは<a href="http://forum.xda-developers.com/xposed/modules/mod-chromepie-add-pie-controls-to-t2869531">XDA
 公式ページ</a> (英語)でしています。</string>
-    <string name="app_about">ChromePieはカスタマイズできるパイ操作機能を、Google ChromeとGoogle Chrome Betaに追加するXposedモジュールです。\n\n
+    <string name="app_about">ChromePieはカスタマイズできるパイ操作機能を、tgpark CAF Browserに追加するXposedモジュールです。\n\n
         内蔵している機能:
         \n•   戻る、進む、再読み込み、新しいタブ、新しいシークレットタブ、タブを閉じる
         \n•   ブックマークに追加、履歴、PC版サイトを見る、ページ内検索

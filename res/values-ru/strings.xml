@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ChromePie</string>
-    <string name="app_description">Добавление элементов управления в Google Chrome</string>
-    <string name="app_about">"ChromePie представляет собой Xposed модуль, который добавляет настраиваемые элементы управления в Google Chrome и Google Chrome Beta.
+    <string name="app_name">ChromePie SE</string>
+    <string name="app_description">Добавление элементов управления в tgpark CAF Browser</string>
+    <string name="app_about">"ChromePie представляет собой Xposed модуль, который добавляет настраиваемые элементы управления в tgpark CAF Browser.
 
 Действия:
 • Назад, вперед, обновить, новая вкладка, новая вкладка инкогнито, закрыть вкладку

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jt5.xposed.chromepie;
+package com.jt5.xposed.chromepiese;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -37,8 +37,8 @@ import android.widget.ImageView;
 import android.widget.ImageView.ScaleType;
 import android.widget.TextView;
 
-import com.jt5.xposed.chromepie.view.BaseItem;
-import com.jt5.xposed.chromepie.view.PieMenu;
+import com.jt5.xposed.chromepiese.view.BaseItem;
+import com.jt5.xposed.chromepiese.view.PieMenu;
 
 import de.robv.android.xposed.XC_MethodHook;
 import de.robv.android.xposed.XC_MethodHook.Unhook;
@@ -57,7 +57,7 @@ public class PieControl implements PieMenu.PieController {
     private final Controller mController;
     private final int mItemSize;
     private final XSharedPreferences mXPreferences;
-    private static final String TAG = "ChromePie:PieControl: ";
+    private static final String TAG = "ChromePie SE:PieControl: ";
     public static final int MAX_SLICES = 6;
     private static List<String> mNoTabActions;
     private static List<Integer> mTriggerPositions;

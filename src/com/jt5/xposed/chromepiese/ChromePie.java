@@ -1,4 +1,4 @@
-package com.jt5.xposed.chromepie;
+package com.jt5.xposed.chromepiese;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,7 +8,7 @@ import android.content.res.XModuleResources;
 import android.os.Handler;
 import android.view.ViewGroup;
 
-import com.jt5.xposed.chromepie.settings.PieSettings;
+import com.jt5.xposed.chromepiese.settings.PieSettings;
 
 import de.robv.android.xposed.IXposedHookInitPackageResources;
 import de.robv.android.xposed.IXposedHookLoadPackage;
@@ -100,7 +100,7 @@ public class ChromePie implements IXposedHookZygoteInit, IXposedHookLoadPackage,
             });
 
         } catch (NoSuchMethodError nsme) {
-            XposedBridge.log("Could not initialise ChromePie: " + nsme);
+            XposedBridge.log("Could not initialise ChromePie SE: " + nsme);
         }
     }
 

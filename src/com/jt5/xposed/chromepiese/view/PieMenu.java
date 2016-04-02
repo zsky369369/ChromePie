@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jt5.xposed.chromepie.view;
+package com.jt5.xposed.chromepiese.view;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -41,10 +41,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
-import com.jt5.xposed.chromepie.Controller;
-import com.jt5.xposed.chromepie.PieControl;
-import com.jt5.xposed.chromepie.PieItem;
-import com.jt5.xposed.chromepie.R;
+import com.jt5.xposed.chromepiese.Controller;
+import com.jt5.xposed.chromepiese.PieControl;
+import com.jt5.xposed.chromepiese.PieItem;
+import com.jt5.xposed.chromepiese.R;
 
 import de.robv.android.xposed.XSharedPreferences;
 

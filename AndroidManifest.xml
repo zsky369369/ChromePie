@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jt5.xposed.chromepie"
+    package="com.jt5.xposed.chromepiese"
     android:versionCode="14"
     android:versionName="0.5" >
 
@@ -15,7 +15,7 @@
         android:allowBackup="true" >
 
         <activity
-            android:name="com.jt5.xposed.chromepie.settings.PieSettings"
+            android:name="com.jt5.xposed.chromepiese.settings.PieSettings"
             android:label="@string/app_name"
             android:configChanges="orientation|screenSize" >
             <intent-filter>
@@ -25,23 +25,23 @@
         </activity>
 
         <activity-alias
-                android:name="com.jt5.xposed.chromepie.settings.PieSettings_Alias"
+                android:name="com.jt5.xposed.chromepiese.settings.PieSettings_Alias"
                 android:label="@string/app_name"
                 android:icon="@drawable/ic_launcher"
                 android:enabled="true"
-                android:targetActivity="com.jt5.xposed.chromepie.settings.PieSettings" >
+                android:targetActivity="com.jt5.xposed.chromepiese.settings.PieSettings" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity-alias>
 
-        <receiver android:name="com.jt5.xposed.chromepie.broadcastreceiver.PieReceiver"
+        <receiver android:name="com.jt5.xposed.chromepiese.broadcastreceiver.PieReceiver"
             android:enabled="true"
             android:exported="true" >
             <intent-filter>
-                <action android:name="com.jt5.xposed.chromepie.intent.FULLSCREEN_UPDATED" />
-                <action android:name="com.jt5.xposed.chromepie.intent.EXPAND_NOTIFICATIONS" />
+                <action android:name="com.jt5.xposed.chromepiese.intent.FULLSCREEN_UPDATED" />
+                <action android:name="com.jt5.xposed.chromepiese.intent.EXPAND_NOTIFICATIONS" />
             </intent-filter>
         </receiver>
 
