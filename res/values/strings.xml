@@ -5,7 +5,7 @@
     <string name="app_description">Add Pie Controls to tgpark CAF Browser</string>
     <string name="app_thread_link">Check out the <a href="http://forum.xda-developers.com/xposed/modules/mod-chromepie-add-pie-controls-to-t2869531">official 
     thread at XDA Developers</a> for support and feedback</string>
-    <string name="app_about"><![CDATA[ChromePie is an Xposed module which adds customisable Pie Controls
+    <string name="app_about"><![CDATA[ChromePie SE is an Xposed module which adds customisable Pie Controls
         to tgpark CAF Browser.\n\n
         Actions include:
         \n•   Back, forward, refresh, new tab, new incognito tab, close tab
@@ -21,11 +21,11 @@
     <string name="app_help_title">Help</string>
     <string name="load_defaults_title">Load default values</string>
 
-    <string name="kill_chrome">Restart Chrome</string>
-    <string name="kill_chrome_summary">Changes require Chrome to be restarted</string>
+    <string name="kill_chrome">Restart tgpark CAF Browser</string>
+    <string name="kill_chrome_summary">Changes require tgpark CAF Browser to be restarted</string>
     <string name="menu_kill">Kill Chrome</string>
-    <string name="chrome_killed">Chrome killed</string>
-    <string name="chrome_not_found">Chrome not found</string>
+    <string name="chrome_killed">tgpark CAF Browser killed</string>
+    <string name="chrome_not_found">tgpark CAF Browser not found</string>
     <string name="chrome_app_chooser">Select app</string>
     
     <string name="edit_pie_menu_title">Pie menu</string>
