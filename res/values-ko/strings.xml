@@ -59,8 +59,8 @@
     <string name="chrome_killed">tgpark CAF Browser를 종료시켰습니다.</string>
     <string name="add_bookmark">북마크 추가</string>
     <string name="add_to_home">홈 화면에 추가</string>
-    <string name="app_about">크롬파이 SE는 tgpark CAF Browser를 사용자 정의된 파이를 추가하여
-      컨트롤하는 Xposed 모듈입니다.\n\n
+    <string name="app_about">크롬파이 SE는 tgpark CAF Browser를 사용자 정의된 파이를 추가하여 컨트롤하는
+      Xposed 모듈입니다.\n\n
       다음 동작들이 가능합니다.
       \n•   뒤로, 앞으로, 새로 고침, 새 탭, 새 시크릿 탭, 탭 종료
       \n•   북마크 추가, 방문 기록, 데스크탑 버전으로 보기, 페이지에서 찾기
