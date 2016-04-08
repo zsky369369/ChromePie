@@ -3,8 +3,10 @@
 
 .gradle
 .idea
+assets/
 build/
 gradle/
 libs/
+res/values-ko/strings.xml
 
 local.properties
