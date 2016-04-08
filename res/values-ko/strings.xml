@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <string name="app_name">크롬파이 SE</string>
+=======
+    <string name="app_name">ChromePie</string>
+>>>>>>> master
     <string name="close_tab">탭 닫기</string>
     <string name="data_saver_disabled">데이터 세이버 중지</string>
     <string name="data_saver_enabled">데이터 세이버 실행</string>
